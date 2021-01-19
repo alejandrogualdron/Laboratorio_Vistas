@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vistas y grupos de vistas</string>
+    <string name="btnExercise1">Welcome</string>
+    <string-array name="spinner_values">
+        <item>coffe</item>
+        <item>tea</item>
+        <item>bottle of water</item>
+        <item>juice</item>
+    </string-array>
+</resources>
